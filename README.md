@@ -60,7 +60,13 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Demonstrate your understanding of this week's concepts by answering the following questions:
 
 1. What is the DOM?
+The DOm is what manages pages on the web. It determines what content should be on a page and how they relate to each other.
 2. What is an event?
+    An event is what allows JS to handle event listeners. It is a signal that something has occured. 
 3. What is an event listener?
+    An event listening is a function that wait for an event to occur and then triggers and action. 
 4. Why would we convert a NodeList into an Array?
+    So we allow for easier data manipulation. 
 5. What is a component?
+    Components are independent and reusable bits of code. 
+
